@@ -83,12 +83,12 @@ author:
   name             : "ZHANG Yonglin"
   avatar           : "profile.png"
   bio              : "Understand the world Develop the theory Build the future"
-  location         : "Location"
+  location         : "Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tpLYt2QAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zhang-Yonglin"
   uri              :
   bitbucket        :
   codepen          :
